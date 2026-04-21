@@ -1,0 +1,11 @@
+como espelhar um objeto externo:
+
+shift + c para a 3d curso ir para o centro
+
+no object mode:
+
+botão direito > set origin > origin to 3d cursor
+
+no edit mode:
+
+mesh > symmetrize
