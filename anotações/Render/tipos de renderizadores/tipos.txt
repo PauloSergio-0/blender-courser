@@ -1,0 +1,3 @@
+EEVEE = rapido porém tem meno qualidade
+
+Circles = lento mas com maior qualidade
