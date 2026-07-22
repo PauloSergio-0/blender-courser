@@ -1,3 +1,4 @@
 x = troca a cor do pincel
-f = altera a intensidade do brush
+f = altera a tamanho do brush
+alt + f = densidade do brush
 s = captura a cor que está presente no modelo
