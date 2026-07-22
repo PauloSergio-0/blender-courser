@@ -1,0 +1,3 @@
+x = troca a cor do pincel
+f = altera a intensidade do brush
+s = captura a cor que está presente no modelo
