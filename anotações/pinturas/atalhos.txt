@@ -2,3 +2,7 @@ x = troca a cor do pincel
 f = altera a tamanho do brush
 alt + f = densidade do brush
 s = captura a cor que está presente no modelo
+
+SELEÇÃO DE POLIGONOS
+
+(alt + shift) + botão esquerdo = seleciona faces do poligono.
