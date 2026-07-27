@@ -1,0 +1,1 @@
+para animar utizamos o keyframes onde são armazendaos dados de rotação, escala e posição dos objetos
