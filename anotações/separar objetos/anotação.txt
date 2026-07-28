@@ -1,0 +1,2 @@
+usando a função separete do menu mesh
+para limpar objetos com verteces duplicadas usa a funçõa cleane up > merge by distance
