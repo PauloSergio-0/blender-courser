@@ -1,0 +1,1 @@
+apertando a tecla f em um loop aberto existe a possibilidade de iserir uma face comando = FILL
