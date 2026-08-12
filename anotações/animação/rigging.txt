@@ -1,1 +1,3 @@
-sempre que tiver articulações como braços e pernas feixar um angulo
+sempre que tiver articulações como braços e pernas deixar um angulo
+
+para dedos, deve ativar o AXE no viewport display , e dexar o eixo z para a região onde o dendo deve se inclinar
